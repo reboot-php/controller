@@ -1,0 +1,18 @@
+{
+    "name": "php-reboot/controller",
+    "description": "Controller lib.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "PHPReboot\\Controller\\": "source/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jan Kristian Valgijainen",
+            "email": "54046100+ogchibi95@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
